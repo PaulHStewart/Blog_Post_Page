@@ -1,0 +1,9 @@
+aside section p {
+	font-family: helvetica;
+	text-decoration: underline;
+	color: #6E1C13;
+	line-height: 25px; 
+}
+ul {
+    list-style-type: circle;
+}

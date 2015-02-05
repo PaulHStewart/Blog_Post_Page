@@ -1,9 +1,26 @@
 aside section p {
 	font-family: helvetica;
 	text-decoration: underline;
-	color: #6E1C13;
 	line-height: 25px; 
 }
+body section header h4 {
+	text-align: right;
+}
+header h1 {
+	height: 3em;
+}
+
+
 ul {
     list-style-type: circle;
+}
+header {
+    padding-top: 50px;
+    padding-right: 75px;
+    padding-bottom: 50px;
+    padding-left: 75px;
+}
+p {
+	color: green;
+	background: grey;
 }
